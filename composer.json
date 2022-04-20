@@ -1,0 +1,15 @@
+{
+    "name": "the/good",
+    "authors": [
+        {
+            "name": "Maram alfaifi",
+            "email": "maram.alfaifi@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
